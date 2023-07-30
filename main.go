@@ -2,7 +2,7 @@ package main
 
 import (
 	"BE-Dumbsound/database"
-	"BE-Dumbsound/pkg/mysql"
+	"BE-Dumbsound/pkg/postgre"
 	"BE-Dumbsound/routes"
 	"fmt"
 	"os"
